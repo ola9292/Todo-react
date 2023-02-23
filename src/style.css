@@ -1,0 +1,16 @@
+.dark{
+    background-color: #3D3B37;
+    color:white;
+    height: 100vh;
+   
+}
+.light{
+    background-color: white;
+    color:black;
+    height: 100vh; 
+  
+}
+.todo{
+    background-color: azure;
+    border: 1px solid blue;
+}
